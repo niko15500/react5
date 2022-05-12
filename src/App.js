@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
+import { BrowserRouter as Router,  Route } from "react-router-dom";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "bootstrap/dist/js/bootstrap.min.js";
 import CssBaseline from "@material-ui/core/CssBaseline";
@@ -26,7 +26,7 @@ function App() {
         <Router>
           <CssBaseline>
             <Navbar />
-            <Switch>
+            
               <Route exact path="/">
                 <Home greeting={greeting} />
               </Route>
@@ -42,7 +42,7 @@ function App() {
               <Route path="/cart">
                 <Cart />
               </Route>
-            </Switch>
+            
             <Footer />
           </CssBaseline>
         </Router>
