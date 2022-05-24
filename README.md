@@ -40,5 +40,5 @@ Recordar que tiene un backend realizado con Firebase, por si quieren descargar y
 
 
 
-**VIDEO
-Hacé click ACA para ver un video de demostración del proceso de compra de la app.
+**VIDEO**
+Hacé click **https://www.youtube.com/watch?v=cxEQWHmebOI** para ver un video de demostración del proceso de compra de la app.
