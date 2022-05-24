@@ -1,5 +1,5 @@
 
-#SPORT STORE
+####### SPORT STORE
 ##Descripción
 Proyecto Final para el curso de ReactJS de la academia Coder House (2020). La aplicación permite conectarse con un backend realizdo con Firebase. Permite seleccionar ciertos productos, navegar a sus detalles, agregarlos al carrito, poder acceder a él, simular la compra de los productos. Al clickear sobre el botón "realizar compra", pide llenar un formulario con datos básicos y luego de confirmar se genera un id de orden para el usuario y en firebase se guarda la orden con los productos que compró.
 
@@ -28,7 +28,7 @@ Recordar que tiene un backend realizado con Firebase, por si quieren descargar y
 ##ScreenShots
 ![image](https://user-images.githubusercontent.com/95551081/169940159-e8caa843-ad56-40d6-a190-b0b7bc642e70.png)
 ![image](https://user-images.githubusercontent.com/95551081/169940180-f691236a-d5a7-47cd-8273-1bcf75e9f23b.png)
-![image](https://user-images.githubusercontent.com/95551081/169940199-8f467c38-100f-4956-be8e-c40e589e771c.png)
+
 
 ##VIDEO
 Hacé click ACA para ver un video de demostración del proceso de compra de la app.
