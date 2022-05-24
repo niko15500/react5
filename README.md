@@ -36,6 +36,7 @@ Recordar que tiene un backend realizado con Firebase, por si quieren descargar y
 
 ![image](https://user-images.githubusercontent.com/95551081/169940159-e8caa843-ad56-40d6-a190-b0b7bc642e70.png)
 ![image](https://user-images.githubusercontent.com/95551081/169940180-f691236a-d5a7-47cd-8273-1bcf75e9f23b.png)
+![image](https://user-images.githubusercontent.com/95551081/169942346-0a4e15cd-9d99-4240-9351-a5be666dff5a.png)
 
 
 
